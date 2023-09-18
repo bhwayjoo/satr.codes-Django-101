@@ -21,3 +21,9 @@
 تعديل على البيانات المدخلة.
 حذف أحد المقرارات الموجودة.
 تطبيق (Migrations) على التعديلات الجديدة.
+
+
+
+cd School
+pip install -r requirements.txt 
+python manage.py runserver   
